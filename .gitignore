@@ -1,6 +1,9 @@
 .git/
 .idea/
+env/
 music/
+tools/
+pretrained_models/
 venv/
 src/__pycache__/
 src/const/__pycache__/
